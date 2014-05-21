@@ -1,6 +1,8 @@
 EDD Ban Emails
 ==============
 
+## This is included in EDD core as of version 2.0+
+
 Allows you to place emails in a banned list. These emails will not be allowed to make purchases.
 
 Once activated, a new section will be added to Downloads > Tools where you can enter the banned emails. Email addresses should be entered one per line.
